@@ -64,6 +64,6 @@ python main.py
 ## 🌐 Social Account
 
 <p align="center">
-  <a href="https://www.youtube.com/@ffurares">YouTube Channel</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://tryhackme.com/p/ffurares">TryHackMe Profile</a>
+  <a href="https://www.youtube.com/@furares">YouTube Channel</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://tryhackme.com/p/furares">TryHackMe Profile</a>
 </p>
 
