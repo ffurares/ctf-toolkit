@@ -22,7 +22,7 @@ It integrates multiple popular tools into a **single automated interface**, stre
 
 **Key Features Include:**
 
-| Emoji | Feature | Description |
+| Feature | Description |
 |-------|---------|-------------|
 | 🔑 | Hash Cracker | Brute-force or dictionary-based hash cracking |
 | 🧩 | Hash Generator | Generate MD5, SHA1, SHA256 hashes quickly |
@@ -37,6 +37,11 @@ It integrates multiple popular tools into a **single automated interface**, stre
 
 ---
 
+<p align="center">
+  <img src=".img/demo.gif" alt="Tool Demo" width="600">
+</p>
+
+---
 ## ⚙️ Installation
 
 Clone the repository and install dependencies:
