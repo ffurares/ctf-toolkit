@@ -145,6 +145,7 @@ def main():
 
         # Start Bettercap
         elif choice == 9:
+            su.run("sudo apt-get install bettercap", shell=True)
             su.run("sudo bash tools/run_bettercap.sh", shell=True)
 
         # Start Metasploit
