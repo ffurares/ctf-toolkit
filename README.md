@@ -30,7 +30,6 @@ It integrates several popular security utilities into a single Python + Shell in
   <img src=".img/main.gif" alt="Tool Demo" width="600">
 </p>
 
-
 ---
 
 ## ⚙️ Installation
@@ -50,6 +49,3 @@ pip install -r requirements.txt
 # 4️⃣ Run the tool
 python main.py
 ```
-<p align="center">
-  <img src=".img/demo.gif" alt="Tool Demo" width="600">
-</p>
