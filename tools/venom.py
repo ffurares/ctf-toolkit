@@ -61,14 +61,14 @@ class Msf:
                 
 
                 try:
-                    host = input(colored("Enter Local Host : ", "light_blue", attrs=['bold'])) #Get Host
+                    host = input(colored("Enter Your IP : ", "light_blue", attrs=['bold'])) #Get Host
                     if not host: #If user not enter host
-                        print(colored("[-] Local Host Required...", "red", attrs=['bold']))
+                        print(colored("[-] Host Required...", "red", attrs=['bold']))
                         sleep(1)
                         continue # wait 1 second and continue loop
-                    port = (input(colored("Enter Local Port : ", "light_blue", attrs=['bold']))) #Enter Port
+                    port = (input(colored("Enter Your Port : ", "light_blue", attrs=['bold']))) #Enter Port
                     if not port: #If user not enter port
-                        print(colored("[-] Local Port Required...", "red", attrs=['bold']))
+                        print(colored("[-] Port Required...", "red", attrs=['bold']))
                         sleep(1)
                         continue #wait 1 second and continue loop
 
@@ -99,14 +99,14 @@ class Msf:
                 Msf.clear()
                 
                 try:
-                    host = input(colored("Enter Local Host : ", "light_blue", attrs=['bold'])) #Get host
+                    host = input(colored("Enter Your Host : ", "light_blue", attrs=['bold'])) #Get host
                     if not host: #If not host
-                        print(colored("[-] Local Host Required...", "red", attrs=['bold'])) #Warning
+                        print(colored("[-] Host Required...", "red", attrs=['bold'])) #Warning
                         sleep(1)
                         continue
-                    port = (input(colored("Enter Local Port : ", "light_blue", attrs=['bold']))) #Get Port
+                    port = (input(colored("Enter Your Port : ", "light_blue", attrs=['bold']))) #Get Port
                     if not port: #If not host
-                        print(colored("[-] Local Port Required...", "red", attrs=['bold']))
+                        print(colored("[-] Port Required...", "red", attrs=['bold']))
                         sleep(1)
                         continue
 
@@ -133,14 +133,14 @@ class Msf:
                 Msf.clear()
                 
                 try:
-                    host = input(colored("Enter Local Host : ", "light_blue", attrs=['bold'])) #Get Host
+                    host = input(colored("Enter Your Host : ", "light_blue", attrs=['bold'])) #Get Host
                     if not host:
-                        print(colored("[-] Local Host Required...", "red", attrs=['bold'])) #Warning for host
+                        print(colored("[-] Host Required...", "red", attrs=['bold'])) #Warning for host
                         sleep(1)
                         continue
-                    port = (input(colored("Enter Local Port : ", "light_blue", attrs=['bold']))) #Enter port
+                    port = (input(colored("Enter Your Port : ", "light_blue", attrs=['bold']))) #Enter port
                     if not port:
-                        print(colored("[-] Local Port Required...", "red", attrs=['bold'])) #Warning for port
+                        print(colored("[-] Port Required...", "red", attrs=['bold'])) #Warning for port
                         sleep(1)
                         continue
 
@@ -167,14 +167,14 @@ class Msf:
                 Msf.clear()
                 
                 try:
-                    host = input(colored("Enter Local Host : ", "light_blue", attrs=['bold'])) #Get host
+                    host = input(colored("Enter Your Host : ", "light_blue", attrs=['bold'])) #Get host
                     if not host:
-                        print(colored("[-] Local Host Required...", "red", attrs=['bold']))
+                        print(colored("[-] Host Required...", "red", attrs=['bold']))
                         sleep(1)
                         continue
-                    port = (input(colored("Enter Local Port : ", "light_blue", attrs=['bold']))) #Get port
+                    port = (input(colored("Enter Your Port : ", "light_blue", attrs=['bold']))) #Get port
                     if not port:
-                        print(colored("[-] Local Port Required...", "red", attrs=['bold']))
+                        print(colored("[-] Port Required...", "red", attrs=['bold']))
                         sleep(1)
                         continue
 
@@ -201,14 +201,14 @@ class Msf:
                 Msf.clear()
                 
                 try:
-                    host = input(colored("Enter Local Host : ", "light_blue", attrs=['bold'])) #Get host
+                    host = input(colored("Enter Your Host : ", "light_blue", attrs=['bold'])) #Get host
                     if not host:
-                        print(colored("[-] Local Host Required...", "red", attrs=['bold']))
+                        print(colored("[-] Host Required...", "red", attrs=['bold']))
                         sleep(1)
                         continue
-                    port = (input(colored("Enter Local Port : ", "light_blue", attrs=['bold']))) #Get port
+                    port = (input(colored("Enter Your Port : ", "light_blue", attrs=['bold']))) #Get port
                     if not port:
-                        print(colored("[-] Local Port Required...", "red", attrs=['bold']))
+                        print(colored("[-] Port Required...", "red", attrs=['bold']))
                         sleep(1)
                         continue
 
