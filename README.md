@@ -49,5 +49,7 @@ pip install -r requirements.txt
 
 # 4️⃣ Run the tool
 python main.py
-
-<p align="center"> <sub>Developed with ❤️ by <a href="https://github.com/ffurares">ffurares</a></sub> </p> ```
+```
+<p align="center">
+  <img src=".img/demo.gif" alt="Tool Demo" width="600">
+</p>
