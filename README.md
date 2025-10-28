@@ -59,3 +59,6 @@ pip install -r requirements.txt
 # 4️⃣ Run the tool
 python main.py
 ```
+<p align="center">
+  📺 <a href="https://www.youtube.com/@furares">YouTube Channel</a> &nbsp;&nbsp;|&nbsp;&nbsp; 🛡️ <a href="https://tryhackme.com/p/furares">TryHackMe Profile</a>
+</p>
