@@ -20,9 +20,9 @@ Unauthorized use of this software against systems without explicit permission is
 ffurares Cybersecurity Automation Tool is a **multi-purpose security suite** designed for beginners, CTF players, and ethical hackers.  
 It integrates multiple popular tools into a **single automated interface**, streamlining security testing on Kali Linux.
 
-**Key Features Include:**
-
 <p align="center">
+
+**Key Features Include:**
 
 | Feature | Description |
 |---------|-------------|
@@ -46,6 +46,7 @@ It integrates multiple popular tools into a **single automated interface**, stre
 </p>
 
 ---
+
 ## ⚙️ Installation
 
 Clone the repository and install dependencies:
@@ -62,12 +63,3 @@ pip install -r requirements.txt
 
 # 4️⃣ Run the tool
 python main.py
-```
----
-
-## 🌐 Social Account
-
-<p align="center">
-  <a href="https://www.youtube.com/@furares">YouTube Channel</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://tryhackme.com/p/furares">TryHackMe Profile</a>
-</p>
-
