@@ -59,10 +59,11 @@ pip install -r requirements.txt
 # 4️⃣ Run the tool
 python main.py
 ```
+---
+
+## 🌐 Social Account
+
 <p align="center">
-  <a href="https://www.youtube.com/@ffurares" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="30" alt="YouTube"/> YouTube Channel
-  </a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  🛡️ <a href="https://tryhackme.com/p/ffurares">TryHackMe Profile</a>
+  <a href="https://www.youtube.com/@ffurares">YouTube Channel</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://tryhackme.com/p/ffurares">TryHackMe Profile</a>
 </p>
+
