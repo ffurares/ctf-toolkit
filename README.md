@@ -32,6 +32,14 @@ It integrates multiple popular tools into a **single automated interface**, stre
 | 🕵️ Metasploit | Quick integration for exploitation tasks |
 | 🔄 Reverse Shells | Pre-built reverse shell payloads |
 | ⚙️ System Update | Update Kali Linux system and tools |
+| 🕸️ Burp Suite | Web application security testing and interception |
+| 📡 Wireshark | Network traffic capture and analysis |
+| ⚡ Bettercap | Advanced MITM and network attacks |
+| 🔐 OpenVPN Connection | Setup and connect to VPNs for secure testing |
+| 🧪 Hydra | Password brute-forcing tool for multiple protocols |
+| 🔑 SSH Key Crack | Brute-force or test SSH keys |
+| 📥 Download Most Common Tools | Auto-download commonly used pentesting tools |
+
 
 > All these features are **automated and integrated**, making it easy to test and learn.
 
