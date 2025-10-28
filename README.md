@@ -60,5 +60,9 @@ pip install -r requirements.txt
 python main.py
 ```
 <p align="center">
-  📺 <a href="https://www.youtube.com/@furares">YouTube Channel</a> &nbsp;&nbsp;|&nbsp;&nbsp; 🛡️ <a href="https://tryhackme.com/p/furares">TryHackMe Profile</a>
+  <a href="https://www.youtube.com/@ffurares" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="30" alt="YouTube"/> YouTube Channel
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  🛡️ <a href="https://tryhackme.com/p/ffurares">TryHackMe Profile</a>
 </p>
