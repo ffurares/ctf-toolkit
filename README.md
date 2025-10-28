@@ -62,11 +62,18 @@ git clone https://github.com/ffurares/ctf-toolkit.git
 # 2️⃣ Enter the project folder
 cd ctf-toolkit
 
-# 3️⃣ Install Python dependencies
+# 3️⃣ Create a Python virtual environment
+python3 -m venv myvenv
+
+# 4️⃣ Activate the virtual environment
+source myvenv/bin/activate
+
+# 5️⃣ Install Python dependencies inside the virtual environment
 pip install -r requirements.txt
 
-# 4️⃣ Run the tool
+# 6️⃣ Run the tool
 python main.py
+
 ```
 
 ---
