@@ -22,6 +22,8 @@ It integrates multiple popular tools into a **single automated interface**, stre
 
 **Key Features Include:**
 
+<p align="center">
+
 | Feature | Description |
 |---------|-------------|
 | 🔑 Hash Cracker | Brute-force or dictionary-based hash cracking |
@@ -32,6 +34,8 @@ It integrates multiple popular tools into a **single automated interface**, stre
 | 🕵️ Metasploit | Quick integration for exploitation tasks |
 | 🔄 Reverse Shells | Pre-built reverse shell payloads |
 | ⚙️ System Update | Update Kali Linux system and tools |
+
+</p>
 
 > All these features are **automated and integrated**, making it easy to test and learn.
 
