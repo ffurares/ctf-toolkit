@@ -72,7 +72,7 @@ source myvenv/bin/activate
 pip install -r requirements.txt
 
 # 6️⃣ Run the tool
-python main.py
+python3 main.py
 
 ```
 
