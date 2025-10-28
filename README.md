@@ -17,18 +17,23 @@ Unauthorized use of this software against systems without explicit permission is
 
 ## 📖 About the Tool
 
-ffurares Cybersecurity Automation Tool is crafted for beginners and CTF players who want to **streamline penetration testing tasks**.  
-It integrates several popular security utilities into a single Python + Shell interface for **automated testing**.
+ffurares Cybersecurity Automation Tool is a **multi-purpose security suite** designed for beginners, CTF players, and ethical hackers.  
+It integrates multiple popular tools into a **single automated interface**, streamlining security testing on Kali Linux.
 
-**Key Features:**
-- Automates common security testing tasks  
-- Easy-to-use CLI interface  
-- Designed for beginners and CTF enthusiasts  
-- Tested primarily on Kali Linux  
+**Key Features Include:**
 
-<p align="center">
-  <img src=".img/menu.gif" alt="Tool Demo" width="600">
-</p>
+| Emoji | Feature | Description |
+|-------|---------|-------------|
+| 🔑 | Hash Cracker | Brute-force or dictionary-based hash cracking |
+| 🧩 | Hash Generator | Generate MD5, SHA1, SHA256 hashes quickly |
+| 🌐 | Nmap Scanner | Network scanning and enumeration |
+| 🚪 | Gobuster | Directory/file brute-forcing |
+| 💣 | MSFVenom | Payload generation for penetration testing |
+| 🕵️ | Metasploit | Quick integration for exploitation tasks |
+| 🔄 | Reverse Shells | Pre-built reverse shell payloads |
+| ⚙️ | System Update | Update Kali Linux system and tools |
+
+> All these features are **automated and integrated**, making it easy to test and learn.
 
 ---
 
