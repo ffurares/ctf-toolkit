@@ -22,16 +22,16 @@ It integrates multiple popular tools into a **single automated interface**, stre
 
 **Key Features Include:**
 
-| Symbol | | Feature | Description |
-|-------|---------|-------------|
-| 🔑 | Hash Cracker | Brute-force or dictionary-based hash cracking |
-| 🧩 | Hash Generator | Generate MD5, SHA1, SHA256 hashes quickly |
-| 🌐 | Nmap Scanner | Network scanning and enumeration |
-| 🚪 | Gobuster | Directory/file brute-forcing |
-| 💣 | MSFVenom | Payload generation for penetration testing |
-| 🕵️ | Metasploit | Quick integration for exploitation tasks |
-| 🔄 | Reverse Shells | Pre-built reverse shell payloads |
-| ⚙️ | System Update | Update Kali Linux system and tools |
+| Feature | Description |
+|---------|-------------|
+| 🔑 Hash Cracker | Brute-force or dictionary-based hash cracking |
+| 🧩 Hash Generator | Generate MD5, SHA1, SHA256 hashes quickly |
+| 🌐 Nmap Scanner | Network scanning and enumeration |
+| 🚪 Gobuster | Directory/file brute-forcing |
+| 💣 MSFVenom | Payload generation for penetration testing |
+| 🕵️ Metasploit | Quick integration for exploitation tasks |
+| 🔄 Reverse Shells | Pre-built reverse shell payloads |
+| ⚙️ System Update | Update Kali Linux system and tools |
 
 > All these features are **automated and integrated**, making it easy to test and learn.
 
