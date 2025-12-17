@@ -75,6 +75,12 @@ pip install -r requirements.txt
 python3 main.py
 
 ```
+---
+
+## ▶ YouTube Video Anlatımı
+
+[![YouTube Video](https://img.youtube.com/vi/nd-b_aZUGv4_s/maxresdefault.jpg)](https://www.youtube.com/watch?v=nd-b_aZUGv4)
+
 
 ---
 
